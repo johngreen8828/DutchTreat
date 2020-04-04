@@ -1,0 +1,16 @@
+{
+  "ConnectionStrings": {
+    "DutchConnectionString": "server=(localdb)\\ProjectsV13;Database=DutchTreatDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "as;ldkfjaslkdfja;lsdkfjl;asdjkf",
+    "Issuer": "localhost",
+    "Audience": "users"
+  }
+}
